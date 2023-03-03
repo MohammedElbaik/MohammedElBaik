@@ -3,6 +3,7 @@
 
 <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ef7c77ae61f62c774526fab14c83cff4e68c83afd3b54f96535c4156ec43f4fd/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73686f726f756b333335266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"></a> </p>
 <p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="">
+  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px" style="visibility:visible;max-width:100%;">
 <ul dir="auto">
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Flutter and Dart</strong></p>
