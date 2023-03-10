@@ -38,20 +38,6 @@
 <h3 dir="auto"><a id="user-content--software--tools" class="anchor" aria-hidden="true" href="#-software--tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> Software &amp; Tools</h3>
 
 
-  
-  
-  <p align="left" dir="auto">
-   
-    <a href="#"><img alt="Git" src="https://camo.githubusercontent.com/2d958001cc78490b96e779bac5b1b4a29eb2541c9bc6d0258b8e67982af498ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532334630353033332e7376673f7374796c653d706c6173746963266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
+   <a href="#"><img alt="Git" src="https://camo.githubusercontent.com/2d958001cc78490b96e779bac5b1b4a29eb2541c9bc6d0258b8e67982af498ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532334630353033332e7376673f7374796c653d706c6173746963266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
    
     <a href="#"><img alt="GitHub" src="https://camo.githubusercontent.com/46625ba568e8e4b14be5ab868d5b8822f065fb62b680ffd255756c2abcd8664e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333138313731372e7376673f7374796c653d706c6173746963266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
-   
-    <a href="#"><img alt="Mark Down" src="https://camo.githubusercontent.com/d74a4c1a2c5feeabc1984ce9f424009a5c461fd4013b724ff9a12d93690412df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d706c6173746963266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Markdown-000000?style=plastic&amp;logo=markdown&amp;logoColor=white" style="max-width: 100%;"></a>
-   
-    <a href="#"><img alt="LaTeX" src="https://camo.githubusercontent.com/73a3a85e5975a461a9d807aa48c99fe5d9ef1c3989dc45046328af09b4fa2ab8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c615465582d3166343235662e7376673f267374796c653d706c6173746963266c6f676f3d4c61546558266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LaTeX-1f425f.svg?&amp;style=plastic&amp;logo=LaTeX&amp;logoColor=white" style="max-width: 100%;"></a>
-   
-    <a href="#"><img alt="Stack Overflow" src="https://camo.githubusercontent.com/a5b1897664cb5caac8e1c4364794e84a5678250b2ba7e82637e7234442e0675b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d4645374131363f7374796c653d706c6173746963266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&amp;logo=stack-overflow&amp;logoColor=white" style="max-width: 100%;"></a>
-   
-    <a href="#"><img alt="Selenium" src="https://camo.githubusercontent.com/928ee56281fb290fff369a5739ab926bd28e837b69ccdbf0a1365955374d7c29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73656c656e69756d2d2532333433423032412e7376673f267374796c653d706c6173746963266c6f676f3d73656c656e69756d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/selenium-%2343B02A.svg?&amp;style=plastic&amp;logo=selenium&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
-
