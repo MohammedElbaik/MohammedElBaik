@@ -40,7 +40,7 @@
 
   
   
-  <p align="center" dir="auto">
+  <p align="left" dir="auto">
    
     <a href="#"><img alt="Git" src="https://camo.githubusercontent.com/2d958001cc78490b96e779bac5b1b4a29eb2541c9bc6d0258b8e67982af498ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532334630353033332e7376673f7374796c653d706c6173746963266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
    
