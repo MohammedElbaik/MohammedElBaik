@@ -10,7 +10,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> You can find my CV  <a href="https://mohammedelbaik.github.io/Resume/">here</a></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:shorouqashraf56@gmail.com">Mohammedmelbeik@gmail.com</a></strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> You can contact me through my email <strong><a href="mailto:Mohammedmelbeik@gmail.com">Mohammedmelbeik@gmail.com</a></strong></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> Know about my experiences <a href="https://www.linkedin.com/in/mohammedelbaik/" rel="nofollow">https://www.linkedin.com/in/mohammedelbaik/</a></p>
