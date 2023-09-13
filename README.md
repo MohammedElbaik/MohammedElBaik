@@ -6,9 +6,6 @@
 <p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="">
   <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px" style="visibility:visible;max-width:100%;">
 <ul dir="auto">
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on <strong>Flutter Projects</strong></p>
-</li>
   <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> You can find my CV  <a href="https://mohammedelbaik.github.io/Resume/">here</a></p>
 </li>
