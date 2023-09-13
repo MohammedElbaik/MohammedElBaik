@@ -13,7 +13,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> You can contact me through my email <strong><a href="mailto:Mohammedmelbeik@gmail.com">Mohammedmelbeik@gmail.com</a></strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> Know about my experiences <a href="https://www.linkedin.com/in/mohammedelbaik/" rel="nofollow">https://www.linkedin.com/in/mohammedelbaik/</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> You can view my LinkedIn account <a href="https://www.linkedin.com/in/mohammedelbaik/" rel="nofollow">here</a></p>
 </li>
   <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Flutter or Dart</strong></p>
