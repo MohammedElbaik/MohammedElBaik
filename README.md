@@ -12,6 +12,9 @@
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on <strong>Flutter Projects</strong></p>
 </li>
+  <li>
+<p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> You can find my CV here<a href="https://github.com/Shorouk335">https://mohammedelbaik.github.io/Resume/</a></p>
+</li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> I’m looking for help with <strong>Flutter Projects</strong></p>
 </li>
