@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=MohammedElbaik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I'm currently pursuing a degree in Information Technology
 - 🤝 Ask me about **Flutter, Laravel, and mobile apps**
 - 📫 How to reach me: **[Mohammedmelbeik@gmail.com](mailto:Mohammedmelbeik@gmail.com)**
 - ⚡ Fun fact: **Al-Furqan** is live on Google Play
