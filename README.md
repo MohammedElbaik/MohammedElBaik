@@ -7,8 +7,7 @@
 
 - 🤝 Ask me about **Flutter, Laravel, and mobile apps**
 - 📫 How to reach me: **[Mohammedmelbeik@gmail.com](mailto:Mohammedmelbeik@gmail.com)**
-- ⚡ Fun fact: **Al-Furqan** is live on Google Play
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammedelbaik/" target="_blank" rel="noreferrer">
