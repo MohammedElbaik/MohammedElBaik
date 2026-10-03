@@ -18,7 +18,7 @@
 
 <h2 align="left">Samples from my projects</h2>
 
-<h3 align="left">Al-Furqan (الفرقان)</h3>
+<h3 align="left">Al-Furqan</h3>
 
 An Islamic app for prayer times, the Quran, hadith, adhkar, tasbih, and the Qibla.
 
