@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed ElBaik</h1>
-<h3 align="center">Mobile app developer building Flutter apps for Android and iOS</h3>
+<h3 align="center">Flutter Developer & PHP Laravel Backend</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MohammedElbaik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
